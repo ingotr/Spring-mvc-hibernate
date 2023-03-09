@@ -1,4 +1,4 @@
-package com.example.spring.mvc.entity.dao;
+package com.example.spring.mvc.dao;
 
 import com.example.spring.mvc.entity.Employee;
 import org.hibernate.Query;
